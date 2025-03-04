@@ -1,4 +1,4 @@
-# Sales-Dashboard-of-ABC-Company-2020-22*  
+# Sales-Dashboard-of-ABC-Company-2020-22 
 
 ## **Overview**  
 This Power BI dashboard provides a **comprehensive sales analysis** of ABC Company for the years **2020-2022**. It helps in tracking **sales performance, cost, profit, and transactions** while providing deep insights into **category-wise sales, brand sales distribution, supervisor performance, and state-wise profit trends**. The interactive nature of the dashboard allows users to explore data dynamically, aiding in decision-making.
